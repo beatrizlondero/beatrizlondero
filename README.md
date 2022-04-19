@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @beatrizlondero
 - 👀 I’m interested in programation
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning web design and I'd finished phyton course
 - 📫 How to reach me in my e-mail of course!! 
 
 <!---
